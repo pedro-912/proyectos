@@ -1,0 +1,67 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000000;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+    /* Estilos para el formulario */
+.formulario {
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    background-color: #202020;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.profile-image {
+    max-width: 100px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+h1 {
+    font-size: 24px;
+    color: #ffffff;
+    margin-bottom: 10px;
+}
+h4{
+    color: #1ad705;
+    margin-bottom: 10px;
+}
+p {
+    font-size: 16px;
+    color: #f9f9f9;
+    margin-bottom: 20px;
+}
+a {
+    display: block;
+    margin-bottom: 20px;
+    color: #ffffff;
+    font-weight: bold;
+    text-decoration: none;
+    background-color: #333;
+}
+a:hover {
+    text-decoration: underline;
+}
+.my-button {
+    padding: 10px 20px;
+    background-color: #292a29;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none; 
+    margin-right: 10px; 
+}
+
+.my-button:hover {
+    background-color: #252726;
+}
